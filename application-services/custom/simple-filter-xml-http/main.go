@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/pkg/transforms"
+	"github.com/student3671/app-functions-sdk-go/pkg/transforms"
 
-	"github.com/edgexfoundry/app-functions-sdk-go/appsdk"
+	"github.com/student3671/app-functions-sdk-go/appsdk"
 )
 
 const (
